@@ -8,7 +8,7 @@ keywords: statistics, data analytics, software engineering, AI
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://drive.google.com/drive/u/1/my-drive">cv</a></li>
+          <li><a href="{{BASE_PATH}}/assests/Resume (1).pdf">cv</a></li>
           <li><a href="https://github.com/aashtialam">github</a></li>
           <li><a href="https://www.linkedin.com/in/aashti-alam-bb87b112b/">LinkedIn</a></li>
       </ul>
