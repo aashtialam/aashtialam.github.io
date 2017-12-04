@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Aashti Alam
+<title> Aashti Alam <\title>
 description:Aashti Alam is a Graduate Student at The George Washington University. She is pursuing Computer Science with concentraion in Machine Learning and Cognition.
 keywords: statistics, data analytics, software engineering, AI
 ---
